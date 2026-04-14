@@ -37,6 +37,8 @@ exports/
 *.swp
 *.swo
 *~
+.qwen/
+.claude/
 
 # OS
 .DS_Store
